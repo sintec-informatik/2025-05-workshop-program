@@ -9,7 +9,7 @@
     <th>Track B</th>
   </tr>
   <tr>
-    <td>09:00 - 10:00</td>
+    <td>09:00 - 09:45</td>
     <td colspan="2" align="center">⭐Begrüßung & Keynote⭐</td>
   </tr>
   <tr>
@@ -27,7 +27,7 @@
     <td>Vortrag 2B: <br/>Thema (Vorname Nachname)</td>
   </tr>
   <tr>
-    <td>11:45 - 13:30</td>
+    <td>11:45 - 13:15</td>
     <td colspan="2" align="center">🥗 Mittagspause</td>
   </tr>
   <tr>
@@ -45,7 +45,7 @@
     <td>Vortrag 4B: <br/>Thema (Vorname Nachname)</td>
   </tr>
   <tr>
-    <td>16:45 - 17:30</td>
+    <td>17:00 - 17:30</td>
     <td colspan="2">Abschluss & Feedback/Retro</td>
   </tr>
 </table>
