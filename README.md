@@ -40,12 +40,12 @@
     <td colspan="2" align="center">☕ Kaffeepause</td>
   </tr>
   <tr>
-    <td>15:30 - 17:00</td>
+    <td>15:30 - 16:15</td>
     <td>Vortrag 4A: <br/>Strichlistenerkennung mit Python – Teil 2 (Stefan Schäftlmayer)</td>
     <td>Vortrag 4B: <br/>Fehler 1202 – warum die Mondlandung fast gescheitert wäre (Marcus Neser)</td>
   </tr>
   <tr>
-    <td>17:00 - 17:30</td>
+    <td>16:30 - 17:00</td>
     <td colspan="2">Abschluss & Feedback/Retro</td>
   </tr>
 </table>
