@@ -14,8 +14,8 @@
   </tr>
   <tr>
     <td>10:00 - 10:45</td>
-    <td>Vortrag 1A: <br/>Steht noch nicht fest (Vanessa Mietz)</td>
-    <td>Vortrag 1B: <br/>Mob-Programming (Daniel Eschenbacher)</td>
+    <td>Vortrag 1A: <br/>Fehler 1202 – warum die Mondlandung fast gescheitert wäre (Marcus Neser)</td>
+    <td>Vortrag 1B: <br/>Strichlistenerkennung mit Python – Teil 2 (Stefan Schäftlmayer)</td>
   </tr>
   <tr>
     <td>10:45 - 11:00</td>
@@ -23,8 +23,8 @@
   </tr>
   <tr>
     <td>11:00 - 11:45</td>
-    <td>Vortrag 2A: <br/>NoSQL-Datenbanken (Thomas Klar)</td>
-    <td>Vortrag 2B: <br/>Steht noch nicht fest (Henry Moser)</td>
+    <td>Vortrag 2A: <br/>Mob-Programming (Daniel Eschenbacher)</td>
+    <td>Vortrag 2B: <br/>NoSQL-Datenbanken (Thomas Klar)</td>
   </tr>
   <tr>
     <td>11:45 - 13:15</td>
@@ -40,12 +40,11 @@
     <td colspan="2" align="center">☕ Kaffeepause</td>
   </tr>
   <tr>
-    <td>15:30 - 16:15</td>
-    <td>Vortrag 4A: <br/>Strichlistenerkennung mit Python – Teil 2 (Stefan Schäftlmayer)</td>
-    <td>Vortrag 4B: <br/>Fehler 1202 – warum die Mondlandung fast gescheitert wäre (Marcus Neser)</td>
+    <td>15:30 - 16:30</td>
+    <td align="center" colspan="2">Vortrag 4A: Townhall Meeting - Update der Geschäftsleitung <br/>(Beate Schiler und Birgit Gusinde)<br/></td>
   </tr>
   <tr>
     <td>16:30 - 17:00</td>
-    <td colspan="2">Abschluss & Feedback/Retro</td>
+    <td colspan="2">Abschluss & Feedback</td>
   </tr>
 </table>
