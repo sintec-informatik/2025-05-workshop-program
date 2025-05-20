@@ -14,30 +14,39 @@
     <td colspan="2" align="center">⭐Begrüßung & Keynote⭐</td>
   </tr>
   <tr>
-    <td><b>10:00</b> (45min)</td>
-    <td><a href="#fehler1202">Fehler 1202 – warum die Mondlandung fast gescheitert wäre</a> (Marcus Neser)</td>
-    <td><a href="#strichlisten">Strichlistenerkennung mit Python – Teil 2</a> (Stefan Schäftlmayer)</td>
+    <td><b>10:00</b> (90min)</td>
+    <td><a href="#kiux">KI und User Experience</a> Teil 1 (Arno Walter)</td>
+    <td><a href="#minihackaton">Mini-Hackaton</a> Teil 1 (Florian Richter)</td>
   </tr>
   <tr>
     <td><b>10:45</b></td>
     <td colspan="2" align="center">☕ Kaffeepause</td>
   </tr>
   <tr>
-    <td><b>11:00</b> (45min)</td>
-    <td><a href="#mobprogramming">Mob-Programming</a> (Daniel Eschenbacher)</td>
-    <td><a href="#nosql">NoSQL-Datenbanken</a> (Thomas Klar)</td>
+    <td><b>11:00</b> (90min)</td>
+    <td><a href="#kiux">KI und User Experience</a> Teil 2 (Arno Walter)</td>
+    <td><a href="#minihackaton">Mini-Hackaton</a> Teil 2 (Florian Richter)</td>
   </tr>
   <tr>
     <td><b>11:45</b></td>
     <td colspan="2" align="center">🥗 Mittagspause</td>
   </tr>
   <tr>
-    <td><b>13:30</b> (90min)</td>
-    <td><a href="#kiux">KI und User Experience</a> (Arno Walter)</td>
-    <td><a href="#minihackaton">Mini-Hackaton</a> (Florian Richter)</td>
+    <td><b>13:30</b> (45min)</td>
+    <td><a href="#fehler1202">Fehler 1202 – warum die Mondlandung fast gescheitert wäre</a> (Marcus Neser)</td>
+    <td><a href="#strichlisten">Strichlistenerkennung mit Python – Teil 2</a> (Stefan Schäftlmayer)</td>
+  </tr>
+   <tr>
+    <td><b>14:15</b></td>
+    <td colspan="2" align="center">☕ Kaffeepause</td>
   </tr>
   <tr>
-    <td><b>15:00</b></td>
+    <td><b>14:30</b> (45min)</td>
+    <td><a href="#mobprogramming">Mob-Programming</a> (Daniel Eschenbacher)</td>
+    <td><a href="#nosql">NoSQL-Datenbanken</a> (Thomas Klar)</td>
+  </tr>
+  <tr>
+    <td><b>15:15</b></td>
     <td colspan="2" align="center">☕ Kaffeepause</td>
   </tr>
   <tr>
@@ -46,7 +55,7 @@
   </tr>
   <tr>
     <td><b>16:30</b> (30min)</td>
-    <td colspan="2">Abschluss & Feedback</td>
+    <td align="center" colspan="2">Abschluss & Feedback</td>
   </tr>
 </table>
 
