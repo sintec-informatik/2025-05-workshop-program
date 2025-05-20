@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td><b>15:30</b> (60min)</td>
-    <td align="center" colspan="2"><a href="#townhall">Townhall Meeting - Update der Geschäftsleitung</a><br/>(Beate Schiler und Birgit Gusinde)</td>
+    <td align="center" colspan="2">Townhall Meeting - Update der Geschäftsleitung<br/>(Beate Schiler und Birgit Gusinde)</td>
   </tr>
   <tr>
     <td><b>16:30</b> (30min)</td>
@@ -79,7 +79,4 @@ NoSQL - Viva la Revolution! Ein Überblick über die verschiedenen Arten von NoS
 In diesem 90-minütigen UX-Workshop lernen die Teilnehmenden, warum es effektiver ist, mit bestehenden Konzepten anzufangen, statt das perfekte Konzept zu suchen. Im Fokus steht das schnelle Produzieren und Verwerfen von Ideen, konstruktive Kritik und Entwurfstechniken. In der Gruppenarbeit probieren die Teams aus, wie man schnell Ideen visualisiert und richtig, die falschen Fragen stellt. Ziel ist es, einen Prozess für bessere Lösungen – nicht die perfekte Idee – auszuprobieren.
 
 <h3 id="minihackaton">Mini-Hackaton (Florian Richter)</h3>
-TBD
-
-<h3 id="townhall">Townhall Meeting - Update der Geschäftsleitung (Beate Schiler und Birgit Gusinde)</h3>
-TBD
+Die Aufgabe besteht darin, ein System zur Erkennung und Markierung von Fahrspuren auf Straßenfotos zu entwickeln. Dabei sollen mehrere Verarbeitungsschritte zur Bildanalyse umgesetzt werden, um die Fahrspuren klar und präzise zu identifizieren.
