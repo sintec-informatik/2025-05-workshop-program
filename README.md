@@ -1,7 +1,7 @@
  
-# Workshop Program (05.2025)
+# Program
 
-## Programm
+## Mi, 21.05.2025
 
 <table>
   <tr>
@@ -59,6 +59,28 @@
   </tr>
 </table>
 
+## Do, 22.05.2025
+
+<table>
+  <tr>
+    <th></th>
+    <th>Track A</th>
+  </tr>
+  <tr>
+    <td><b>09:00 - 13.00</b></td>
+    <td colspan="2" align="center">Tagung</td>
+  </tr>
+  <tr>
+    <td><b>13:00 - 14.00</b></td>
+    <td colspan="2" align="center">🥗 Mittagspause</td>
+  </tr>
+  <tr>
+    <td><b>14.00 - 17.00</b></td>
+    <td colspan="2" align="center">Freizeitevent</td>
+  </tr>
+</table>
+
+## Details
 
 <h3 id="fehler1202">Fehler 1202 – warum die Mondlandung fast gescheitert wäre (Marcus Neser)</h3>
 Kurz vor der ersten Mondlandung erscheint auf dem Bordcomputer eine unerwartete Fehlermeldung.<br/> 
