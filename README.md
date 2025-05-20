@@ -14,7 +14,7 @@
     <td colspan="2" align="center">⭐Begrüßung & Keynote⭐</td>
   </tr>
   <tr>
-    <td><b>10:00</b> (90min)</td>
+    <td><b>10:00</b> (45min)</td>
     <td><a href="#kiux">KI und User Experience</a> Teil 1 (Arno Walter)</td>
     <td><a href="#minihackaton">Mini-Hackaton</a> Teil 1 (Florian Richter)</td>
   </tr>
@@ -23,7 +23,7 @@
     <td colspan="2" align="center">☕ Kaffeepause</td>
   </tr>
   <tr>
-    <td><b>11:00</b> (90min)</td>
+    <td><b>11:00</b> (45min)</td>
     <td><a href="#kiux">KI und User Experience</a> Teil 2 (Arno Walter)</td>
     <td><a href="#minihackaton">Mini-Hackaton</a> Teil 2 (Florian Richter)</td>
   </tr>
