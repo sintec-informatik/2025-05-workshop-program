@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td><b>09:00 - 13.00</b></td>
-    <td colspan="2" align="center">Tagung</td>
+    <td colspan="2" align="center">Eine Reise durch AWS<br/>(Frank Prechtel)</td>
   </tr>
   <tr>
     <td><b>13:00 - 14.00</b></td>
@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td><b>14.00 - 17.00</b></td>
-    <td colspan="2" align="center">Freizeitevent</td>
+    <td colspan="2" align="center">Freizeitevent - Galeerefahrt am Brombachsee</td>
   </tr>
 </table>
 
