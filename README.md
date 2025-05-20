@@ -76,7 +76,7 @@
   </tr>
   <tr>
     <td><b>14.00 - 17.00</b></td>
-    <td colspan="2" align="center">Freizeitevent - Galeerefahrt am Brombachsee</td>
+    <td colspan="2" align="center">Freizeitevent - Galeerenfahrten am Brombachsee</td>
   </tr>
 </table>
 
