@@ -1,5 +1,5 @@
  
-# Program
+# Programm
 
 ## Mi, 21.05.2025
 
